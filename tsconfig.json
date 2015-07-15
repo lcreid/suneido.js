@@ -9,7 +9,6 @@
 		"dnum.ts",
 		"dnum_test.ts",
 		"suobject.ts",
-		"suobject_test.ts",
-		"play.js"
+		"suobject_test.ts"
 	]
 }
